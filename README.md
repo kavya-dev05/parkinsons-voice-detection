@@ -90,6 +90,14 @@ parkinsons-voice-detection/
 
 ## ⚙️ How It Works
 
+<div align="center">
+
+<img src="assets/system_flow.jpg" alt="AI-Based Parkinson's Disease Detection System Flow" width="780" style="border-radius: 12px; margin: 16px 0 24px;"/>
+
+> *System architecture — from raw voice input to prediction output.*
+
+</div>
+
 ```
   ┌──────────────────┐
   │  User Input      │  ← .wav audio file
